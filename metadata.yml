@@ -1,0 +1,12 @@
+---
+:id: 81723334
+:submitters:
+- :name: Sophia Chiang
+  :email: sophiachiang@uchicago.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-28 18:01:57.064523000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-28 11:01:57.064523000 Z
+:status: processed
+:score: 88.0
